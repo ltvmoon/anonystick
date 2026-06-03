@@ -26,7 +26,17 @@
 </p>
 
 
+## 👋 Tôi xem xong lễ trao giải và thấy một lập trình viên QUÁ TUỔI mà vẫn còn viết CODE? RESPECT.
+
+Đầu tiên hãy xem người đàn ông quá tuổi này vẫn còn CODE rất đam mê và hạnh phúc. Con đường ông ta đã đi trước, đi trước không hẳn đi đúng với chúng ta nhưng chí ít hiện tại nó đang đúng với ông ta. Trước khi bạn mông lung trong ngành nghề or bị một đợt layoff càn quyét nhưng nếu xem được thước phim này thì tôi nghĩ mọi chuyện nó sẽ đơn giản hơn nhiều, đúng không? Hay xem nó dưới đây:
+
+👋👋👋 [NoCODE: Tôi xem xong lễ trao giải và thấy một lập trình viên QUÁ TUỔI mà vẫn còn viết CODE? RESPECT.](https://youtu.be/v0F8-5fL4HQ)
+
+---
+
 ## 👋👋👋 Con đường Front-End(FE) tới FullStack(FS) và đích đến Backend(BE)
+
+---
 
 Không cần đao to búa lớn làm gì? Trong một môi trường có nhiều cơ hội tiếp xúc với các dự án có tính đồng thời cao và chính bạn dù ở vị trí nào cũng nên có khả năng thiết kế một hệ thống như vậy đó cũng là một trong những năng lực quan trọng không thể thiếu đối với các lập trình viên hiện nay. 
 Nhưng, ngay cả khi bạn đang làm một nhiệm vụ không liên quan đến trường hợp như trên thì theo tôi bạn cũng nên tìm hiểu về một hệ thống đó được triển khai như thế nào càng sớm càng tốt, đúng không?
